@@ -5,6 +5,12 @@ This project is a game of TicTacToe in Python.
  - Python 3.6 or up
  
  # Instructions To Use
+ - **Windows**
+   ```
+   python TicTacToe.py
+   ```
+ - **Mac or Linux**
    ```
    python3 TicTacToe.py
    ```
+
